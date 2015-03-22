@@ -3,6 +3,7 @@ The output of the R script is a table file called tidyset.txt
 This table contains the average of each mean and standard devaition (std) variable for each activity and each subject.
 Row 1 contains the activity and row 2 the subject
 The following fields contain the mean for the variables:
+```
 3 tBodyAccmeanX
 4 tBodyAccmeanY
 5 tBodyAccmeanZ
@@ -69,3 +70,4 @@ The following fields contain the mean for the variables:
 66 fBodyBodyGyroMagstd
 67 fBodyBodyGyroJerkMagmean
 68 fBodyBodyGyroJerkMagstd
+```
